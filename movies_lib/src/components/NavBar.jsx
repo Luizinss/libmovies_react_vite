@@ -20,7 +20,7 @@ const NavBar = () => {
     return (
         <nav id='navbar'>
             <h2>
-                <Link to="/">
+                <Link to="libmovies_react_vite">
                     <BiCameraMovie /> MoviesLib
                 </Link>
             </h2>
